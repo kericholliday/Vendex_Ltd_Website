@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vendex-ltd.com/sitemap.xml
